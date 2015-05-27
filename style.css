@@ -111,11 +111,11 @@ html, body
         -ms-transform: translate3D(0%,0%,0) rotate3D(0,0,1,-45deg) rotate3d(1,-1,0,0deg);
             transform: translate3D(0%,0%,0) rotate3D(0,0,1,-45deg) rotate3d(1,-1,0,0deg);
     -webkit-animation:
-        sleep-sound-01 160.93s cubic-bezier(.75,0,1,1) 0s 1,
-        sleep-sound-02 224.07s cubic-bezier(0,.75,1,1) 160.9301s 1;
+        sleep-sound-01 116.5s cubic-bezier(0,0,1,.25) 0s 1,
+        sleep-sound-02 116.5s cubic-bezier(0,.75,1,1) 116.51s 1;
             animation:
-        sleep-sound-01 160.93s cubic-bezier(.75,0,1,1) 0s 1,
-        sleep-sound-02 224.07s cubic-bezier(0,.75,1,1) 160.9301s 1;
+        sleep-sound-01 116.5s cubic-bezier(0,0,1,.25) 0s 1,
+        sleep-sound-02 116.5s cubic-bezier(0,.75,1,1) 116.51s 1;
 }
 
 .rect-side
